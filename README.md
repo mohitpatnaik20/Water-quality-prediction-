@@ -1,1 +1,2 @@
-# Water-quality-prediction-
+The goal is to build a machine learning model that predicts whether water is safe to drink (potable or not) based on various chemical properties (like pH, hardness, solids, etc.
+Access to clean drinking water is a major health concern. Manually testing water samples can be time-consuming and costly. This project uses ML to automate the process by analyzing water quality parameters and predicting potability (0 = Not potable, 1 = Potable)
